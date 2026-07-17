@@ -4,7 +4,7 @@ Dashboard interativo que une **agricultura de precisão**, **nova economia espac
 
 ## 📋 Sobre o projeto
 
-O AgroSpace foi desenvolvido como projeto acadêmico para explorar como tecnologias espaciais e de IA — satélites, drones, IoT, machine learning — vêm transformando o agronegócio. O dashboard combina conteúdo educacional, calculadoras técnicas (como NDVI) e ferramentas de automação em uma única interface.
+O AgroSpace foi desenvolvido como projeto acadêmico para explorar como tecnologias espaciais e de IA satélites, drones, IoT, machine learning vêm transformando o agronegócio. O dashboard combina conteúdo educacional, calculadoras técnicas (como NDVI) e ferramentas de automação em uma única interface.
 
 ## 🗺️ Módulos
 
