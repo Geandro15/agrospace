@@ -2,6 +2,8 @@
 
 Dashboard interativo que une **agricultura de precisão**, **nova economia espacial** e **inteligência artificial**, construído com Streamlit. O projeto reúne sensoriamento remoto, análise de imagem NDVI, automação de coleta de dados (scraping/RPA), análise de documentos e planilhas com IA, e um assistente conversacional (RAG) especializado em agro espacial.
 
+> 💡 A maioria dos módulos (NDVI, scraping, gráficos) funciona sem nenhuma configuração. Só o Chat e os Insights de IA exigem uma chave gratuita da Hugging Face.
+
 ## 📋 Sobre o projeto
 
 O AgroSpace foi desenvolvido como projeto acadêmico para explorar como tecnologias espaciais e de IA satélites, drones, IoT, machine learning vêm transformando o agronegócio. O dashboard combina conteúdo educacional, calculadoras técnicas (como NDVI) e ferramentas de automação em uma única interface.
